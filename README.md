@@ -6,11 +6,10 @@
 <li>🔭 I’m currently working on various side projects involving React.JS,Node.JS,Express.JS etc. </li>
 <li>🌱 I’m currently learning various cool technologies and libraries. </li>
 <li>📫 How to reach me: Drop me an email at: chukimguan@gmail.com </li>
+</ul>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soaza&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaza&layout=compact)
-  
+ 
+<div width="400"> 
   <li> 💻 Front-end Technologies I have worked with: 
 <ul>
   <li>React.JS</li>
@@ -19,7 +18,9 @@
   <li>Cypress.JS</li>
   <li>Discord.JS</li>
 </ul></li>
+ </div>
   
+<div width="400"> 
 <li> 👨🏻‍💻 Back-end Technologies I have worked with: 
 <ul>
   <li>Django</li>
@@ -28,5 +29,8 @@
   <li>PostgreSQL</li>
   <li>mySQL</li>
 </ul></li>
+</div>
+<img src="https://github-readme-stats.vercel.app/api?username=soaza&show_icons=true&theme=gotham"/>
+
 <br/>
   <b>Check out my ongoing/past projects below 👇</b>
