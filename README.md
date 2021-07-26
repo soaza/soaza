@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Kim Guan, a current Year 3 Computer Science student with full-stack webdevelopment background, specialising in front-end development.
 
-<!--
-**soaza/soaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
