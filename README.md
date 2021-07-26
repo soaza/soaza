@@ -28,4 +28,5 @@
   <li>PostgreSQL</li>
   <li>mySQL</li>
 </ul></li>
-
+<br/>
+  <b>Check out my ongoing/past projects below 👇</b>
