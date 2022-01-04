@@ -3,7 +3,18 @@
 
 <ul>
  <li> 👨🏻‍💻 Currently working at <i>Binance</i> as a Software Engineer Intern
-<li> 🧳 Companies I have worked with: <i>Shopee(Front-End Developer Intern)</i> <i>NTUC Income(Back-End Developer Intern)</i>,<i> WorkClass.co(Full-stack Developer Intern)</i></li>
+ </li>
+  
+ 
+<li> 🧳 Companies I have worked with:
+ 
+ <ul>
+  <li>Shopee(<i>Front-End Developer Intern</i>)</li>
+  <li> WorkClass.co(<i>Full-stack Developer Intern</i>)</li>
+  <li>NTUC Income(<i>Back-End Developer Intern</i>)</li>
+ </ul>
+ 
+ 
 <li>🔭 I’m currently working on various side projects involving React.JS,Node.JS,Express.JS etc. </li>
 <li>🌱 I’m currently learning various cool technologies and libraries. </li>
 <li>📫 How to reach me: Drop me an email at: chukimguan@gmail.com </li>
