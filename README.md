@@ -13,10 +13,6 @@
   <li> WorkClass.co(<i>Full-stack Developer Intern</i>)</li>
   <li>NTUC Income(<i>Back-End Developer Intern</i>)</li>
  </ul>
- 
- 
-<li>🔭 I’m currently working on various side projects involving React.JS,Node.JS,Express.JS etc. </li>
-<li>🌱 I’m currently learning various cool technologies and libraries. </li>
 <li>📫 How to reach me: Drop me an email at: chukimguan@gmail.com </li>
 </ul>
 
@@ -25,8 +21,8 @@
   <li> 💻 Front-end Technologies I have worked with: 
 <ul>
   <li>React.JS</li>
-  <li>Gatsby.JS</li>
   <li>Next.JS</li>
+  <li>Gatsby.JS</li>
   <li>Cypress.JS</li>
   <li>Discord.JS</li>
 </ul></li>
