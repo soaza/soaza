@@ -1,4 +1,4 @@
-### Hi there 👋 !!
+### Hola 👋 !!
 ### I am Kim Guan, a current Year 3 Computer Science student with full-stack web development background
 
 <ul>
