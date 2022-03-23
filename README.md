@@ -38,7 +38,3 @@
   <li>mySQL</li>
 </ul></li>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=soaza&show_icons=true&theme=gotham"/>
-
-<br/>
-  <b>Check out my ongoing/past projects below 👇</b>
