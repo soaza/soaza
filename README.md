@@ -2,13 +2,14 @@
 ### I am Kim Guan, a current Year 3 Computer Science student with full-stack web development background
 
 <ul>
- <li> 👨🏻‍💻 Currently working at <i>Binance</i> as a Software Engineer Intern
+ <li> 👨🏻‍💻 Currently working at <i>Bytedance</i> as a Front-End Engineer Intern
  </li>
   
  
 <li> 🧳 Companies I have worked with:
  
  <ul>
+  <li>Binance(<i>Software Engineer Intern</i>)</li>
   <li>Shopee(<i>Front-End Developer Intern</i>)</li>
   <li> WorkClass.co(<i>Full-stack Developer Intern</i>)</li>
   <li>NTUC Income(<i>Back-End Developer Intern</i>)</li>
