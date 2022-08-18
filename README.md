@@ -3,8 +3,7 @@
 
 <ul>
  <li> 👨🏻‍💻 Currently working at <i>Bytedance</i> as a Front-End Engineer Intern
- <li> 👨🏻‍💻 Currently maintaining [NUS Reviews](https://github.com/soaza/nus-reviews)
- [GitHub Pages](https://pages.github.com/)
+ <li> 👨🏻‍💻 Currently maintaining NUS Reviews
  
  </li>
   
