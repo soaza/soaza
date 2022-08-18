@@ -36,6 +36,7 @@
 <ul>
   <li>Django</li>
   <li>Node.JS</li>
+  <li>Knex.JS</li>
   <li>Express.JS</li>
   <li>PostgreSQL</li>
   <li>mySQL</li>
