@@ -1,8 +1,11 @@
 ### Hola 👋 !!
-### I am Kim Guan, a current Year 3 Computer Science student with full-stack web development background
+### I am Kim Guan, a current Year 4 Computer Science student with full-stack web development background
 
 <ul>
  <li> 👨🏻‍💻 Currently working at <i>Bytedance</i> as a Front-End Engineer Intern
+ <li> 👨🏻‍💻 Currently maintaining [NUS Reviews](https://github.com/soaza/nus-reviews)
+ [GitHub Pages](https://pages.github.com/)
+ 
  </li>
   
  
