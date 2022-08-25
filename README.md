@@ -1,19 +1,22 @@
 ### Hola 👋 !!
 ### I am Kim Guan, a current Year 4 Computer Science student with full-stack web development background
 
-👨🏻‍💻 Currently maintaining:
-
+<ul><b>👨🏻‍💻 Currently maintaining:</b>
 <ul>
   <li>NUS Reviews</li>
   <li>An e-learning platform for mindfulness and wellness built in collaboration with NUS Google Developer Student Club</li>
 </ul>
+</ul>
   
-<li>📫 How to reach me: Drop me an email at: chukimguan@gmail.com </li>
+<ul><b>📫 How to reach me: </b>
+<ul>
+ <li>Drop me an email at: chukimguan@gmail.com </li>
+ </ul>
 </ul>
 
  
 <div width="400"> 
-  <li> 💻 Front-End Technologies I have worked with: 
+  <ul> 💻 <b>Front-End Technologies I have worked with:</b> 
 <ul>
   <li>Non-negotiable Typescript :)</li>
   <li>React.JS</li>
@@ -25,7 +28,7 @@
  </div>
   
 <div width="400"> 
-<li> 👨🏻‍💻 Back-End Technologies I have worked with: 
+<ul> 👨🏻‍💻 <b>Back-End Technologies I have worked with: </b>
 <ul>
   <li>Django</li>
   <li>Node.JS</li>
