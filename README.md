@@ -1,16 +1,18 @@
 ### Hola 👋 !!
 ### I am Kim Guan, a current Year 4 Computer Science student with full-stack web development background
 
+ <li> 👨🏻‍💻 Currently maintaining:</li>
+
 <ul>
- <li> 👨🏻‍💻 Currently working at <i>Bytedance</i> as a Front-End Engineer Intern
- <li> 👨🏻‍💻 Currently maintaining NUS Reviews
- 
- </li>
+  <li>NUS Reviews</li>
+  <li>An e-learning platform for mindfulness and wellness built in collaboration with NUS Google Developer Student Club</li>
+</ul>
   
  
-<li> 🧳 Companies I have worked with:
+<li> 🧳 Companies I have worked with:</li>
  
  <ul>
+  <li> Bytedance(<i>Software Engineer Intern</i>)</i> 
   <li>Binance(<i>Software Engineer Intern</i>)</li>
   <li>Shopee(<i>Front-End Developer Intern</i>)</li>
   <li> WorkClass.co(<i>Full-stack Developer Intern</i>)</li>
@@ -21,7 +23,7 @@
 
  
 <div width="400"> 
-  <li> 💻 Front-end Technologies I have worked with: 
+  <li> 💻 Front-End Technologies I have worked with: 
 <ul>
   <li>Non-negotiable Typescript :)</li>
   <li>React.JS</li>
@@ -33,7 +35,7 @@
  </div>
   
 <div width="400"> 
-<li> 👨🏻‍💻 Back-end Technologies I have worked with: 
+<li> 👨🏻‍💻 Back-End Technologies I have worked with: 
 <ul>
   <li>Django</li>
   <li>Node.JS</li>
