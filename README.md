@@ -23,6 +23,7 @@
 <div width="400"> 
   <li> 💻 Front-end Technologies I have worked with: 
 <ul>
+  <li>Non-negotiable Typescript :)</li>
   <li>React.JS</li>
   <li>Next.JS</li>
   <li>Gatsby.JS</li>
