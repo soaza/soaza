@@ -8,16 +8,6 @@
   <li>An e-learning platform for mindfulness and wellness built in collaboration with NUS Google Developer Student Club</li>
 </ul>
   
- 
-<li> 🧳 Companies I have worked with:</li>
- 
- <ul>
-  <li> Bytedance(<i>Software Engineer Intern</i>)</i> 
-  <li>Binance(<i>Software Engineer Intern</i>)</li>
-  <li>Shopee(<i>Front-End Developer Intern</i>)</li>
-  <li> WorkClass.co(<i>Full-stack Developer Intern</i>)</li>
-  <li>NTUC Income(<i>Back-End Developer Intern</i>)</li>
- </ul>
 <li>📫 How to reach me: Drop me an email at: chukimguan@gmail.com </li>
 </ul>
 
