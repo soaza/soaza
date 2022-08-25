@@ -1,7 +1,7 @@
 ### Hola 👋 !!
 ### I am Kim Guan, a current Year 4 Computer Science student with full-stack web development background
 
- <li> 👨🏻‍💻 Currently maintaining:</li>
+👨🏻‍💻 Currently maintaining:
 
 <ul>
   <li>NUS Reviews</li>
