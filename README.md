@@ -4,7 +4,6 @@
 <ul><b>👨🏻‍💻 Currently maintaining:</b>
 <ul>
   <li>NUS Reviews</li>
-  <li>An e-learning platform for mindfulness and wellness built in collaboration with NUS Google Developer Student Club</li>
 </ul>
 </ul>
   
@@ -21,9 +20,10 @@
   <li>Non-negotiable Typescript :)</li>
   <li>React.JS</li>
   <li>Next.JS</li>
+  <li>TailwindCSS</li>
+  <li>tRPC</li>
   <li>Gatsby.JS</li>
   <li>Cypress.JS</li>
-  <li>Discord.JS</li>
 </ul></li>
  </div>
   
