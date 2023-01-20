@@ -36,5 +36,6 @@
   <li>Express.JS</li>
   <li>PostgreSQL</li>
   <li>mySQL</li>
+  <li>Prisma.JS</li>
 </ul></li>
 </div>
