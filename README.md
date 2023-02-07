@@ -9,7 +9,7 @@
 
 <ul><b>👨🏻‍💻 Currently maintaining:</b>
 <ul>
-  <li>NUS Reviews</li>
+  <li>NUS Reviews (<a href="nus-reviews.com">link</a>) </li>
 </ul>
 </ul>
   
