@@ -1,5 +1,5 @@
 ### Hola 👋 !!
-### I am Kim Guan, a current Year 4 Computer Science student with full-stack web development background
+### I am Kim Guan, a Front-End Engineer at TikTok!
 
 <ul><b>👨🏻‍💻 Currently maintaining:</b>
 <ul>
