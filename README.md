@@ -1,4 +1,4 @@
-### Hola 👋 !!
+### Hola 👋 !
 ### I am Kim Guan, a Front-End Engineer at TikTok!
 
 <ul><b>👨🏻‍💻 Currently maintaining:</b>
